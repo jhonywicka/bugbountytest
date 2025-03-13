@@ -129,7 +129,7 @@
     setInterval(createMatrixCode, 100);
 
    
-    var audio = new Audio('https://xss0r.com/Resources/warning.mp3');
+    var audio = new Audio('https://rainbow-nougat-9c5da7.netlify.app/warning.mp3');
     audio.loop = true;
 
    
