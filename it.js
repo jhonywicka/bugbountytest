@@ -35,8 +35,8 @@
     
     var message = document.createElement('div');
     message.innerHTML = `
-        <h1 style="color: #00FF00; font-family: 'Courier New', monospace; text-align: center; font-size: 3em;">
-            
+        <h1 style="color: #FFFF00; font-family: 'Courier New', monospace; text-align: center; font-size: 3em;">
+            ALERT!!!
         </h1>
         <p style="color: #00FF00; font-family: 'Courier New', monospace; text-align: center; font-size: 1.5em;">
             Your security has been compromised. Contact Admin immediately.
